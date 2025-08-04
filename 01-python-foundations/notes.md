@@ -1,1 +1,1 @@
-test
+Notes and reflections on Python basics, functions, loops, OOP, and small scripts like calculators.
